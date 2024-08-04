@@ -1,4 +1,4 @@
-<p align="center">## Hi, I am Jai Pannu 👋</p>
+<h1 align="center"> Hi, I am Jai Pannu 👋</h1>
 
 -------
 
