@@ -5,7 +5,7 @@
 
 -------
 
-<p align="center">Top Projects</p>
+<h2 align="center">Top Projects</h2>
 
 > [Expresso Connect](https://github.com/JaiPannu-IITI/expressoconnect) : Video Calling platform with integrated AI to recognize and overlay emotions with emojis.
 
@@ -17,7 +17,7 @@
 
 -------
 
-<p align="center">Connect</p>
+<h2 align="center">Connect</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/jaipannu-iiti/" target="blank">
