@@ -1,6 +1,5 @@
 <h1 align="center"> Hi, I am Jai Pannu 👋</h1>
 
--------
 
 <p align="center">Love to Code | Full Stack Web Developer | UI/UX Designing | Competitive Programming</p>
 
