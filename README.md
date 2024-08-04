@@ -3,7 +3,7 @@
 
 <p align="center">Love to Code | Full Stack Web Developer | UI/UX Designing | Competitive Programming</p>
 
--------
+
 
 <h2 align="center">Top Projects</h2>
 
@@ -15,7 +15,6 @@
 
 > [TPC Landing Page](https://github.com/JaiPannu-IITI/tpc-landingpage) : Landing page for portal of a government organization with a decent UI.
 
--------
 
 <h2 align="center">Connect</h2>
 
@@ -34,7 +33,6 @@
   </a>
 </p>
 
---------
 
 <h2 align="center">Languages and Tools</h3>
 <p align="center">
