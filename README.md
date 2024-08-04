@@ -9,7 +9,11 @@
 <p align="center">Top Projects</p>
 
 > [Expresso Connect](https://github.com/JaiPannu-IITI/expressoconnect) : Video Calling platform with integrated AI to recognize and overlay emotions with emojis.
+
+
 > [TPC Portal](https://github.com/Web-Team-IITI-Gymkhana) : Portal to handle all placement and internship at IIT Indore
+
+
 > [TPC Landing Page](https://github.com/JaiPannu-IITI/tpc-landingpage) : Landing page for portal of a government organization with a decent UI.
 
 -------
