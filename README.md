@@ -11,7 +11,7 @@
 
 > [SpaceDock Portal](https://github.com/SpaceDockUK/portal) : Proposed and delivered a scalable web portal to automate manual trip management processes, enabling seamless role-based access for drivers, admins, and other stakeholders.
 
-> [TPC Portal](https://github.com/Web-Team-IITI-Gymkhana) : Portal to handle all placement and internship at IIT Indore and also created a landing page for portal of a government organization with a decent UI
+> [TPC Portal](https://github.com/Web-Team-IITI-Gymkhana) : Contributed in development of portal to handle all placement and internship at IIT Indore along with creating a landing page for same with a decent UI in NextJS
 
 
 
