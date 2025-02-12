@@ -1,99 +1,73 @@
-<h1 align="center"> Hi, I am Jai Pannu 👋</h1>
+<h1 align="center">Hi, I am Jai Pannu 👋</h1>
 
+<p align="center">💻 Full Stack Web Developer | 🎨 UI/UX Designer | 🏆 Competitive Programmer | 🚀 Tech Enthusiast</p>
 
-<p align="center">Love to Code | Full Stack Web Developer | UI/UX Designing | Competitive Programming</p>
+---
 
+<p align="center">
+   <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="200" height="200" />
+</p>
 
+<h2 align="center">🚀 Top Projects</h2>
 
-<h2 align="center">Top Projects</h2>
+> 🔹 [Expresso Connect](https://github.com/JaiPannu-IITI/expressoconnect) - Video Calling platform with integrated AI to recognize and overlay emotions with emojis.
 
-> [Expresso Connect](https://github.com/JaiPannu-IITI/expressoconnect) : Video Calling platform with integrated AI to recognize and overlay emotions with emojis.
+> 🔹 [SpaceDock Portal](https://github.com/SpaceDockUK/portal) - Scalable web portal automating manual trip management processes.
 
-> [SpaceDock Portal](https://github.com/SpaceDockUK/portal) : Proposed and delivered a scalable web portal to automate manual trip management processes, enabling seamless role-based access for drivers, admins, and other stakeholders.
+> 🔹 [TPC Portal](https://github.com/Web-Team-IITI-Gymkhana) - IIT Indore's Placement & Internship Management System, designed with Next.js.
 
-> [TPC Portal](https://github.com/Web-Team-IITI-Gymkhana) : Contributed in development of portal to handle all placement and internship at IIT Indore along with creating a landing page for same with a decent UI in NextJS
+---
 
-<br/>
+<h2 align="center">📊 My GitHub Stats</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaiPannu-IITI&show_icons=true&include_all_commits=true&bg_color=0000&title_color=ffff&text_color=ffff&icon_color=F34B7D&hide=issues,stars"/>
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaiPannu-IITI&show_icons=true&include_all_commits=true&bg_color=0000&title_color=ffff&text_color=ffff&icon_color=F34B7D&hide=issues,stars" />
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=JaiPannu-IITI&theme=dark"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiPannu-IITI&bg_color=0000&title_color=ffff&text_color=ffff&layout=compact"/>
+</p>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=JaiPannu-IITI&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiPannu-IITI&bg_color=0000&title_color=ffff&text_color=ffff&layout=compact)
+---
 
-
-<h2 align="center">Connect</h2>
+<h2 align="center">📬 Connect with Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/jaipannu-iiti/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaipannu-iiti" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-JaiPannu-blue?logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/jaipannu08" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaipannu08" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-JaiPannu08-purple?logo=instagram" alt="Instagram"/>
   </a>
   <a href="https://codeforces.com/profile/JaiPannu-IITI" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="JaiPannu-IITI" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Codeforces-JaiPannu-orange?logo=codeforces" alt="Codeforces"/>
   </a>
   <a href="https://www.leetcode.com/JXP200/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="JaiPannu-IITI" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-JXP200-yellow?logo=leetcode" alt="LeetCode"/>
   </a>
 </p>
 
+---
 
-<h2 align="center">Languages and Tools</h3>
+<h2 align="center">🛠️ Languages & Tools</h2>
 
-<div align="left">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height="40" width="52" alt="c logo"  />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="40" width="52" alt="cplusplus logo"  />
-</div>
-<div align="left"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" height="40" width="52" alt="bootstrap logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="40" width="52" alt="react logo"  />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" height="40" width="52" alt="Nextjs logo"  />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,react,nextjs,nodejs,express,graphql,mongodb,postgresql,typescript,javascript,html,css,bootstrap,docker,git,github,linux,bash" />
+</p>
 
-</div>
+---
 
+<h2 align="center">⚡ Fun Facts</h2>
 
-<div align="left">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="40" width="52" alt="nodejs logo"  />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="40" width="52" alt="nodejs logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="40" width="52" alt="mongodb logo"  />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" height="40" width="52" alt="graphql logo"  />
-</div>
+v- 🔥 I love solving real-world problems with code!
+- 🚀 Passionate about **Web3 & Open Source**!
+- 🎮 Codes at night like Batman! 🦇
+- 💡 Always up for a **hackathon challenge**!
 
-<div align="left">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height="40" width="52" alt="linux logo"  />
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" height="40" width="52" alt="bash logo"  />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="40" width="52" alt="git logo"  />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="40" width="52" alt="github logo"  />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="40" width="52" alt="docker logo"  />
+---
 
-</div>
-
-
-
-
-
-
-
-<!--
-**JaiPannu-IITI/JaiPannu-IITI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ **Let's build something amazing together!**
