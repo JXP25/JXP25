@@ -20,8 +20,7 @@
 
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=JaiPannu-IITI&theme=dark)
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiPannu-IITI&bg_color=0000&title_color=ffff&text_color=ffff&layout=compact" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiPannu-IITI&bg_color=0000&title_color=ffff&text_color=ffff&layout=compact)
 
 
 <h2 align="center">Connect</h2>
