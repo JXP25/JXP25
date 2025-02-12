@@ -35,7 +35,6 @@
 
 
 <h2 align="center">Languages and Tools</h3>
-## Languages
 
 <div align="left">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height="40" width="52" alt="c logo"  />
