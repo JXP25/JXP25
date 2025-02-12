@@ -70,6 +70,8 @@
 
 </div>
 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=JaiPannu-IITI&theme=dark)
+
 
 
 <!--
