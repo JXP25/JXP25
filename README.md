@@ -17,7 +17,7 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaiPannu-IITI&show_icons=true&include_all_commits=true&bg_color=0000&title_color=ffff&text_color=ffff&icon_color=F34B7D&hide=issues,stars" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiPannu-IITI&bg_color=0000&title_color=ffff&text_color=ffff&layout=compact" />
+
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=JaiPannu-IITI&theme=dark)
 
@@ -77,6 +77,8 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="40" width="52" alt="docker logo"  />
 
 </div>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiPannu-IITI&bg_color=0000&title_color=ffff&text_color=ffff&layout=compact" />
 
 
 
