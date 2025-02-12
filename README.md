@@ -63,7 +63,7 @@
 
 <h2 align="center">⚡ Fun Facts</h2>
 
-v- 🔥 I love solving real-world problems with code!
+- 🔥 I love solving real-world problems with code!
 - 🚀 Passionate about **Web3 & Open Source**!
 - 🎮 Codes at night like Batman! 🦇
 - 💡 Always up for a **hackathon challenge**!
