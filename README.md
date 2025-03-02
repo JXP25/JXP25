@@ -24,9 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JaiPannu-IITI&show_icons=true&include_all_commits=true&bg_color=0000&title_color=ffff&text_color=ffff&icon_color=F34B7D&hide=issues,stars"/>
 </p>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaiPannu-IITI&show_icons=true&locale=en&theme=radical" alt="" />
-</p>
+
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=JaiPannu-IITI&theme=dark"/>
