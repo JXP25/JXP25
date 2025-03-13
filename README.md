@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I am Jai Pannu 👋</h1>
-
-<p align="center">💻 Full Stack Web Developer | 🎨 UI/UX Designer | 🏆 Competitive Programmer | 🚀 Tech Enthusiast</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=0E75B6&width=350&center=true&width=480&lines=%3C+Full+Stack+Developer+%2F%3E;%3C+System+Architect+%2F%3E;%3C+Competitive+Programmer+%2F%3E">
+</p>
 
 ---
 
@@ -8,31 +8,13 @@
    <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="200" height="200" />
 </p>
 
-<h2 align="center">🚀 Top Projects</h2>
+<h2 align="center">Top Projects</h2>
 
 > 🔹 [Expresso Connect](https://github.com/JaiPannu-IITI/expressoconnect) - Video Calling platform with integrated AI to recognize and overlay emotions with emojis.
 
 > 🔹 [SpaceDock Portal](https://github.com/SpaceDockUK/portal) - Scalable web portal automating manual trip management processes.
 
 > 🔹 [TPC Portal](https://github.com/Web-Team-IITI-Gymkhana) - IIT Indore's Placement & Internship Management System, designed with Next.js.
-
----
-
-<h2 align="center">📊 My GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaiPannu-IITI&show_icons=true&include_all_commits=true&bg_color=0000&title_color=ffff&text_color=ffff&icon_color=F34B7D&hide=issues,stars"/>
-</p>
-
-
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=JaiPannu-IITI&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiPannu-IITI&bg_color=0000&title_color=ffff&text_color=ffff&layout=compact"/>
-</p>
 
 ---
 
@@ -53,22 +35,178 @@
   </a>
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JaiPannu-IITI&label=Profile%20views&color=0e75b6&style=flat" alt="JaiPannu-IITI" /></p>
+
 ---
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,react,nextjs,nodejs,express,graphql,mongodb,postgresql,typescript,javascript,html,css,bootstrap,docker,git,github,linux,bash" />
-</p>
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+
+  <!-- Competitive Programming & Algorithms -->
+  <tr>
+    <td><strong>Competitive Programming & Algorithms</strong></td>
+    <td>
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/> 
+      </a>&nbsp;
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/> 
+      </a>&nbsp;
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/> 
+      </a>
+    </td>
+  </tr>
+
+  <!-- Software Development & Engineering -->
+  <tr>
+    <td><strong>Software Development & Engineering</strong></td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
+      </a>&nbsp;
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
+      </a>&nbsp;
+      <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="40" height="40"/>
+      </a>&nbsp;
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
+      </a>&nbsp;
+      <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="40" height="40"/>
+      </a>&nbsp;
+      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/>
+      </a>&nbsp;
+      <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=django" alt="Django REST" width="40" height="40"/>
+      </a>&nbsp;
+    </td>
+  </tr>
+
+  <!-- UI & Frontend Development -->
+  <tr>
+    <td><strong>UI & Frontend Development</strong></td>
+    <td>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
+      </a>&nbsp;
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
+      </a>&nbsp;
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/>
+      </a>&nbsp;
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
+      </a>&nbsp;
+      <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=sass" alt="SASS" width="40" height="40"/>
+      </a>&nbsp;
+    </td>
+  </tr>
+
+  <!-- Database & Backend Technologies -->
+  <tr>
+    <td><strong>Database & Backend Technologies</strong></td>
+    <td>
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/>
+      </a>&nbsp; 
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
+      </a>&nbsp; 
+      <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://mariadb.com/wp-content/themes/mariadb-sage/public/images/mariadb-logo-mark@2x.d3f9b9.png" alt="MariaDB" width="40" height="40"/>
+      </a>&nbsp;
+      <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/>
+      </a>&nbsp;
+    </td>
+  </tr>
+
+  <!-- DevOps & Cloud -->
+  <tr>
+    <td><strong>DevOps & Cloud Technologies</strong></td>
+    <td>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
+      </a>&nbsp;
+      <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="40" height="40"/>
+      </a>&nbsp;
+      <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS Lambda" width="40" height="40"/>
+      </a>&nbsp;
+    </td>
+  </tr>
+
+  <!-- Security & Authentication -->
+  <tr>
+    <td><strong>Security & Authentication</strong></td>
+    <td>
+      <a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=3840&q=75" alt="JWT" width="40" height="40"/>
+      </a>&nbsp;
+    </td>
+  </tr>
+
+  <!-- Testing & QA -->
+  <tr>
+    <td><strong>Testing & Quality Assurance</strong></td>
+    <td>
+      <a href="https://vitest.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" width="40" height="40"/>
+      </a>&nbsp;
+    </td>
+  </tr>
+
+  <!-- Tools & Platforms -->
+  <tr>
+    <td><strong>Software Tools & Platforms</strong></td>
+    <td>
+      <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+      </a>&nbsp;
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
+      </a>&nbsp;
+      <a href="https://www.twilio.com/" target="_blank" rel="noreferrer"> 
+        <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIACAAIAMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAGAwAH/8QAKhAAAQMDAwQABgMAAAAAAAAAAQIDBQQGERIhQQAxYYETFiJRYoIUcpH/xAAWAQEBAQAAAAAAAAAAAAAAAAAABQP/xAAcEQEAAgIDAQAAAAAAAAAAAAABAgMABCJhwSH/2gAMAwEAAhEDEQA/AOzychSxdE5V1rgbaR/pPAA5PQoXXcs0tSreiQKZJxrcGSf2JCc+BnrXkFTV4xcEpRTTgBa8HuTqKvelOAfJ6vX1lwUN10sdGUikRSFNIbbbpwW1N4GolWNsfVyOw2Od8ZSV6y5ra1ddYoM0Zcn4Hq5A3XckK4k3DEg06jjW2MEfsCUk+NumsbIU0pRN1dE4HGXBseQeQRweiEdWXBIXTVx0rSKXFLLiHG3GAG0o30kKxvnbk9z9to2UFw12ysEFlVPguIyexGnHspUMn8R0jJHrG1rV2VqATiEuL8TxM15lcLd8XOlBVTkBteB2I1BXvSrYfierV1BPSF1UsnGVhXFLU2ttxD+EJbGNSSnO+fq4PfjhfJR9NKUblJWtBxlY3HIPBB4PQoWjcMO4oW9Lj+Oo50Oq0kesFJPnbpKKPWNbarsrBkRmDHkfE8TLR9DPR10VcnK1hRFoLi3HFv5QtBzpATnYj6eB2wM53jZPxJi65Se0FLGC2jPJOnHsJSM/2HW+UbgmHUfMUuPgJOdDStRPrASD5wem0bQU0ZRt0lE0G2WxsBz9yTyfPSMVesbW1XCtBJTkEeJ8D1c//9k=" alt="Twilio" width="40" height="40"/>
+      </a>&nbsp;
+    </td>
+  </tr>
+
+</table>
+
+
+
+---
+
+<h3 align=center>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JaiPannu-IITI&show_icons=true&locale=en&layout=compact&langs_count=5&theme=tokyonight" alt="JaiPannu-IITI" />  
+&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaiPannu-IITI&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="JaiPannu-IITI" />
+</h3>
+<h3 align=center>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JaiPannu-IITI&theme=tokyonight" alt="JaiPannu-IITI" />
+</h3>
 
 ---
 
 <h2 align="center">⚡ Fun Facts</h2>
 
-- 🔥 I love solving real-world problems with code!
-- 🚀 Passionate about **Web3 & Open Source**!
-- 🎮 Codes at night like Batman! 🦇
-- 💡 Always up for a **hackathon challenge**!
+- I love solving real-world problems with code!
+- Passionate about **Web3 & Open Source**!
+- Codes at night like Batman! 🦇
+- Always up for a **hackathon challenge**!
 
 ---
 
