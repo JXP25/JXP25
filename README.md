@@ -166,6 +166,12 @@
         <img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" width="40" height="40"/>
       </a>&nbsp;
     </td>
+     <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
+      <img src="https://skillicons.dev/icons?i=playwright" alt="Playwright" width="40" height="40"/>
+    </a>&nbsp;
+    <a href="https://pptr.dev/" target="_blank" rel="noreferrer"> 
+      <img src="https://skillicons.dev/icons?i=puppeteer" alt="Puppeteer" width="40" height="40"/>
+    </a>
   </tr>
 
   <!-- Tools & Platforms -->
