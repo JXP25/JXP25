@@ -1,26 +1,26 @@
+<h1 align="center">
+⚡︎ <b>Software Engineer</b>
+</h1>
+
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=0E75B6&width=350&center=true&width=480&lines=%3C+Full+Stack+Developer+%2F%3E;%3C+System+Architect+%2F%3E;%3C+Competitive+Programmer+%2F%3E">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Google_Summer_of_Code_sun_logo_2022.svg/1200px-Google_Summer_of_Code_sun_logo_2022.svg.png" width="200" height="200" />
 </p>
 
----
+
+
+<br>
 
 <p align="center">
-   <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="200" height="200" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=1000&color=F9A825&center=true&width=480&lines=%3C+Contributor+%2F%3E;%3C+The+Palisadoes%20Foundation+%2F%3E;%3C+Google+Summer+Of+Code+2025+%2F%3E"
+    alt="Typing animation"
+  />
 </p>
 
-<h2 align="center">Top Projects</h2>
 
-> 🔹 [Expresso Connect](https://github.com/JaiPannu-IITI/expressoconnect) - Video Calling platform with integrated AI to recognize and overlay emotions with emojis.
 
-> 🔹 [SpaceDock Portal](https://github.com/SpaceDockUK/portal) - Scalable web portal automating manual trip management processes.
-
-> 🔹 [TPC Portal](https://github.com/Web-Team-IITI-Gymkhana) - IIT Indore's Placement & Internship Management System, designed with Next.js.
-
----
-
-<h2 align="center">📬 Connect with Me</h2>
-
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/jaipannu-iiti/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-JaiPannu-blue?logo=linkedin" alt="LinkedIn"/>
   </a>
@@ -33,13 +33,38 @@
   <a href="https://www.leetcode.com/JXP200/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-JXP200-yellow?logo=leetcode" alt="LeetCode"/>
   </a>
-</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=JaiPannu-IITI&label=Profile%20views&color=0e75b6&style=flat" alt="JaiPannu-IITI" /></p>
+   <img src="https://komarev.com/ghpvc/?username=JaiPannu-IITI&label=Profile%20views&color=0e75b6&style=flat" alt="JaiPannu-IITI" />
+</div>
+<br>
+
 
 ---
 
+
+<h2 align="center">✨ Featured ✨</h2>
+
+
+<p align="center">
+ <i> "Projects built with a strong focus on core functionality, real-world use cases, and rapid iteration." </i>
+</p>
+<br>
+
+> [Expresso Connect](https://github.com/JaiPannu-IITI/expressoconnect) - Video Calling platform with integrated AI to recognize and overlay emotions with emojis.
+
+> [TPC Portal](https://github.com/Web-Team-IITI-Gymkhana) - IIT Indore's Placement & Internship Management System.
+
+> [SpaceDock Portal](https://github.com/SpaceDockUK/portal) - Scalable web portal automating manual trip management processes.
+
+<br>
+
+---
+
+
+
+
 <h2 align="center">🛠️ Languages & Tools</h2>
+<br>
 
 <table>
   <tr>
@@ -192,7 +217,7 @@
 
 </table>
 
-
+<br>
 
 ---
 
@@ -205,14 +230,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JaiPannu-IITI&theme=tokyonight" alt="JaiPannu-IITI" />
 </h3>
 
----
-
-<h2 align="center">⚡ Fun Facts</h2>
-
-- I love solving real-world problems with code!
-- Passionate about **Web3 & Open Source**!
-- Codes at night like Batman! 🦇
-- Always up for a **hackathon challenge**!
+<br>
 
 ---
 
