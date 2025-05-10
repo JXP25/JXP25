@@ -1,5 +1,5 @@
 <h1 align="center">
-⚡︎ <b>Software Engineer</b>
+⚡ <b>Software Engineer </b> ⚡
 </h1>
 
 
