@@ -1,4 +1,4 @@
-<h1 align="center">
+<h2 align="center">
 ⚡ <b>Software Engineer </b> ⚡
 </h1>
 
