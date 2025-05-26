@@ -50,7 +50,7 @@
 </p>
 <br>
 
-> [Expresso Connect](https://github.com/JaiPannu-IITI/expressoconnect) - Video Calling platform with integrated AI to recognize and overlay emotions with emojis.
+> [Expresso Connect](https://github.com/Pradeep-Kumar-Rebbavarapu/IITISOC-24-WEB-18) - Video Calling platform with integrated AI to recognize and overlay emotions with emojis.
 
 > [TPC Portal](https://github.com/Web-Team-IITI-Gymkhana) - IIT Indore's Placement & Internship Management System.
 
