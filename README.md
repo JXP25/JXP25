@@ -217,18 +217,7 @@
 
 </table>
 
-<br>
 
----
-
-<h3 align=center>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JXP25&show_icons=true&locale=en&layout=compact&langs_count=5&theme=tokyonight" alt="JXP25" />  
-&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JXP25&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="JXP25" />
-</h3>
-<h3 align=center>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JXP25&theme=tokyonight" alt="JXP25" />
-</h3>
 
 <br>
 
