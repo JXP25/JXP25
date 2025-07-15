@@ -27,14 +27,14 @@
   <a href="https://instagram.com/jaipannu08" target="blank">
     <img src="https://img.shields.io/badge/Instagram-JaiPannu08-purple?logo=instagram" alt="Instagram"/>
   </a>
-  <a href="https://codeforces.com/profile/JaiPannu-IITI" target="blank">
+  <a href="https://codeforces.com/profile/JXP25" target="blank">
     <img src="https://img.shields.io/badge/Codeforces-JaiPannu-orange?logo=codeforces" alt="Codeforces"/>
   </a>
   <a href="https://www.leetcode.com/JXP200/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-JXP200-yellow?logo=leetcode" alt="LeetCode"/>
   </a>
 
-   <img src="https://komarev.com/ghpvc/?username=JaiPannu-IITI&label=Profile%20views&color=0e75b6&style=flat" alt="JaiPannu-IITI" />
+   <img src="https://komarev.com/ghpvc/?username=JXP25&label=Profile%20views&color=0e75b6&style=flat" alt="JXP25" />
 </div>
 <br>
 
@@ -222,12 +222,12 @@
 ---
 
 <h3 align=center>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JaiPannu-IITI&show_icons=true&locale=en&layout=compact&langs_count=5&theme=tokyonight" alt="JaiPannu-IITI" />  
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JXP25&show_icons=true&locale=en&layout=compact&langs_count=5&theme=tokyonight" alt="JXP25" />  
 &nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaiPannu-IITI&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="JaiPannu-IITI" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JXP25&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="JXP25" />
 </h3>
 <h3 align=center>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JaiPannu-IITI&theme=tokyonight" alt="JaiPannu-IITI" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JXP25&theme=tokyonight" alt="JXP25" />
 </h3>
 
 <br>
