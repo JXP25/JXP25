@@ -50,11 +50,12 @@
 </p>
 <br>
 
-> [Expresso Connect](https://github.com/Pradeep-Kumar-Rebbavarapu/IITISOC-24-WEB-18) - Video Calling platform with integrated AI to recognize and overlay emotions with emojis.
+> [Expresso Connect](https://github.com/JaiPannu-IITI/horizon) - Offline first 3D vector based mapping engine.
 
 > [TPC Portal](https://github.com/Web-Team-IITI-Gymkhana) - IIT Indore's Placement & Internship Management System.
 
-> [SpaceDock Portal](https://github.com/SpaceDockUK/portal) - Scalable web portal automating manual trip management processes.
+> [Expresso Connect](https://github.com/JaiPannu-IITI/expresso) - Video Calling platform with integrated AI to recognize and overlay emotions with emojis.
+
 
 <br>
 
