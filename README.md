@@ -50,7 +50,7 @@
 </p>
 <br>
 
-> [Horizon](https://github.com/JaiPannu-IITI/horizon) - Offline first 3D vector based mapping engine.
+> [Horizon](https://github.com/JaiPannu-IITI/horizon) - A full-fledged WebGL-powered 3D map engine that works offline, renders live data, and scales to the planet.
 
 > [TPC Portal](https://github.com/Web-Team-IITI-Gymkhana) - IIT Indore's Placement & Internship Management System.
 
