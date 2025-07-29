@@ -50,7 +50,7 @@
 </p>
 <br>
 
-> [Expresso Connect](https://github.com/JaiPannu-IITI/horizon) - Offline first 3D vector based mapping engine.
+> [Horizon](https://github.com/JaiPannu-IITI/horizon) - Offline first 3D vector based mapping engine.
 
 > [TPC Portal](https://github.com/Web-Team-IITI-Gymkhana) - IIT Indore's Placement & Internship Management System.
 
