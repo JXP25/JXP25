@@ -21,7 +21,7 @@
 
 
 <div align="center">
-  <a href="https://linkedin.com/in/jaipannu-iiti/" target="blank">
+  <a href="https://linkedin.com/in/jxp25/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-JaiPannu-blue?logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/jaipannu08" target="blank">
@@ -50,11 +50,11 @@
 </p>
 <br>
 
-> [Horizon](https://github.com/JaiPannu-IITI/horizon) - A full-fledged WebGL-powered 3D map engine that works offline, renders live data, and scales to the planet.
+> [Horizon](https://github.com/JXP25/horizon) - A full-fledged WebGL-powered 3D map engine that works offline, renders live data, and scales to the planet.
 
 > [TPC Portal](https://github.com/Web-Team-IITI-Gymkhana) - IIT Indore's Placement & Internship Management System.
 
-> [Expresso Connect](https://github.com/JaiPannu-IITI/expresso) - Video Calling platform with integrated AI to recognize and overlay emotions with emojis.
+> [Expresso Connect](https://github.com/JXP25/expresso) - Video Calling platform with integrated AI to recognize and overlay emotions with emojis.
 
 
 <br>
