@@ -24,14 +24,14 @@
   <a href="https://linkedin.com/in/jxp25/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-JaiPannu-blue?logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/jaipannu08" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-JaiPannu08-purple?logo=instagram" alt="Instagram"/>
-  </a>
-  <a href="https://codeforces.com/profile/JXP25" target="blank">
+  <a href="https://codeforces.com/profile/JaiPannu-IITI" target="blank">
     <img src="https://img.shields.io/badge/Codeforces-JaiPannu-orange?logo=codeforces" alt="Codeforces"/>
   </a>
   <a href="https://www.leetcode.com/JXP200/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-JXP200-yellow?logo=leetcode" alt="LeetCode"/>
+  </a>
+    <a href="https://instagram.com/jaipannu08" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-JaiPannu08-purple?logo=instagram" alt="Instagram"/>
   </a>
 
    <img src="https://komarev.com/ghpvc/?username=JXP25&label=Profile%20views&color=0e75b6&style=flat" alt="JXP25" />
