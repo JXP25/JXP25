@@ -13,7 +13,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=1000&color=F9A825&center=true&width=480&lines=%3C+Contributor+%2F%3E;%3C+The+Palisadoes%20Foundation+%2F%3E;%3C+Google+Summer+Of+Code+2025+%2F%3E"
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=1000&color=F9A825&center=true&width=580&lines=%3C+Google+Summer+Of+Code+2025+%2F%3E;%3C+Intern+@bequant.dev+%2F%3E;%3C+Moderator+@Palisadoes+Foundation+%2F%3E"
     alt="Typing animation"
   />
 </p>
