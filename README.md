@@ -4,7 +4,7 @@
 
 
 <p align="center">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Google_Summer_of_Code_sun_logo_2022.svg/1200px-Google_Summer_of_Code_sun_logo_2022.svg.png" width="100" height="100" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Google_Summer_of_Code_sun_logo_2022.svg/500px-Google_Summer_of_Code_sun_logo_2022.svg.png" width="100" height="100" />
 </p>
 
 
